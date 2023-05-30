@@ -1,4 +1,4 @@
-package shift02br.com.modulo2.exemplos;
+package br.com.modulo2.exemplos;
 
 public class Pessoa {
 	private String nome;
