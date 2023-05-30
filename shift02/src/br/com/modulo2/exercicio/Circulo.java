@@ -5,12 +5,13 @@ public class Circulo {
 
 	public Circulo(double raio) {
 		System.out.println("Calculando area do circulo para o raio :"+ raio);
-		this.area = pi*(this.raio*this.raio);
 		this.raio = raio;
+		this.area = pi*(this.raio*this.raio);
+		
 	}
 	
 	public double retornaArea() {
-		System.out.println("O valor da area é "+ this.area);
+		System.out.println("O valor da area ï¿½ "+ this.area);
 		return this.area;
 	}
 	
