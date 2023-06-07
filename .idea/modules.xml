@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/domain-driven-design.iml" filepath="$PROJECT_DIR$/.idea/domain-driven-design.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heranca/heranca.iml" filepath="$PROJECT_DIR$/heranca/heranca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/polimorfismo3/polimorfismo3.iml" filepath="$PROJECT_DIR$/polimorfismo3/polimorfismo3.iml" />
     </modules>
   </component>
 </project>
